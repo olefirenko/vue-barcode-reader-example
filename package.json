@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "vue": "^3.2.25",
-    "vue-barcode-reader": "^1.0.0"
+    "vue-barcode-reader": "^1.0.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.0",
