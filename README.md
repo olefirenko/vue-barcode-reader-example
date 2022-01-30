@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# Vue Barcode Reader Demo
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is the demo for the usage of the [vue-barcode-reader](https://github.com/olefirenko/vue-barcode-reader) library for scanning QR and barcodes in Vue.js based applications.
 
-## Recommended IDE Setup
+## Demo
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+You can check this repository deployed to [Vercel](https://vue-barcode-reader-example-2iiz1fhbf-olefirenko.vercel.app/) or [Netlify](https://stupefied-meitner-58f299.netlify.app/).
+You can check how `vue-barcode-reader` library works on live production website [here](https://parceltrackingapp.com/en).
